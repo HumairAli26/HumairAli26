@@ -92,13 +92,14 @@ Custom-built packet sniffer, reconnaissance scripts, and subdomain enumeration t
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HumairAli26&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Stats -->
+![Humair's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HumairAli26&show_icons=true&theme=tokyonight)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumairAli26&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HumairAli26&layout=compact&theme=tokyonight)
 
-  <img src="https://streak-stats.demolab.com/?user=HumairAli26&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=HumairAli26&theme=tokyonight&hide_border=true)
 
 ---
 
