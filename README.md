@@ -157,7 +157,7 @@ Designed and implemented multiple SQL-based database systems including:
 
 <!-- Top Languages -->
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HumairAli26\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=HumairAli26&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=400)
 
 <!-- GitHub Streak -->
 
@@ -174,6 +174,7 @@ Designed and implemented multiple SQL-based database systems including:
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python\&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📱 Mobile & Desktop Development
 
