@@ -157,7 +157,7 @@ Designed and implemented multiple SQL-based database systems including:
 
 <!-- Top Languages -->
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=HumairAli26&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=400)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HumairAli26&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=400)
 
 <!-- GitHub Streak -->
 
