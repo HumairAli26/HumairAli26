@@ -153,14 +153,15 @@ Designed and implemented multiple SQL-based database systems including:
 
 <!-- GitHub Stats -->
 
-![Humair's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumairAli26&show_icons=true&theme=tokyonight)
+![Humair's GitHub Stats](https://github-stats-extended.vercel.app/api?username=HumairAli26&show_icons=true&theme=tokyonight)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumairAli26&layout=compact&langs_count=6&theme=tokyonight)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HumairAli26&layout=compact&langs_count=6&theme=tokyonight)
 
 <!-- GitHub Streak -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HumairAli26\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HumairAli26&theme=tokyonight&hide_border=true)
 
 ---
 
