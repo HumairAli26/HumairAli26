@@ -1,21 +1,20 @@
 # 👋 Hi, I'm Humair Ali
 
-🎓 **Computer Science Student** | 🔐 **Cybersecurity Developer** | 💻 **Software Engineer**
+🎓 **Computer Science Student** | 🔐 **Cybersecurity Developer** | 💻 **Software Engineer** | 📱 **App & Game Developer**
 
-I'm passionate about building security-focused software, modern desktop and mobile applications, automation tools, and open-source projects. I enjoy combining software engineering with cybersecurity to create practical solutions for developers and security professionals.
+I build security-focused software, cross-platform mobile and desktop apps, automation tools, and games. I enjoy combining software engineering with cybersecurity to create practical solutions for developers, businesses, and security professionals.
 
 ---
 
 # 🚀 About Me
 
 * 🔐 Passionate about **Cybersecurity, Software Development, and Automation**
-* 🖥️ Currently building **SecureAudit** — an enterprise-style desktop vulnerability assessment platform using **Python** and **PySide6**
-* 📱 Learning **React Native with Expo** to build cross-platform mobile applications
-* 🛡️ Building **ReconForge**, an open-source Linux reconnaissance toolkit
-* 🎣 Built **PhishGuard**, a phishing URL detection application powered by machine learning
-* 🎮 Developing **Crownbound**, a 2D Unity action platformer
+* 📱 Built [**BizSync**](https://github.com/HumairAli26/BizSync), a cross-platform inventory and operations app for businesses using **React Native, Expo, TypeScript, and Firebase**
+* 🏝️ Developing [**Resort Empire**](https://github.com/HumairAli26/Resort-Empire), a 2D tile-based resort management tycoon game in **Unity (C#)**
+* 🔍 Building [**ReconForge**](https://github.com/HumairAli26/ReconForge), a Linux network discovery and security assessment platform
+* 🎮 Developing [**Crownbound**](https://github.com/HumairAli26/Crownbound), a 2D Unity action platformer
 * 📚 Continuously learning **Application Security, System Design, Networking, and Backend Development**
-* 💡 I enjoy transforming ideas into practical, scalable, and secure software
+* 💡 I enjoy turning ideas into practical, scalable, and secure software
 
 ---
 
@@ -28,6 +27,7 @@ I'm passionate about building security-focused software, modern desktop and mobi
 * C#
 * Python
 * JavaScript
+* TypeScript
 * SQL
 
 ---
@@ -35,12 +35,33 @@ I'm passionate about building security-focused software, modern desktop and mobi
 ## ⚙️ Development & Frameworks
 
 * React Native
-* Expo Framework
+* Expo (expo-router, custom dev builds, Android APK builds)
+* Electron (desktop apps)
+* Firebase (Authentication, Firestore, offline persistence)
 * PySide6 (Qt for Python)
-* Unity (2D Game Development)
+* Unity (2D game development, tile-based systems)
 * Flask
 * Git & GitHub
 * SQL Server
+
+---
+
+## 📱 Mobile & App Development
+
+* Cross-platform apps with **React Native + Expo** and **TypeScript**
+* File-based routing with **expo-router**
+* Email/password authentication and organization-based access with **Firebase Auth**
+* **Offline-first sync** using Firestore offline persistence
+* Shipping installable builds (Android APK) and desktop clients that share one backend
+
+---
+
+## 🎮 Game Development
+
+* **Unity** with **C#**
+* 2D tile-based grid and placement logic
+* Economy and progression systems (resource management, purchases, expansion)
+* Combat mechanics, enemy AI, animations, and multi-scene gameplay
 
 ---
 
@@ -49,6 +70,7 @@ I'm passionate about building security-focused software, modern desktop and mobi
 * MySQL
 * MongoDB
 * SQL Server
+* Cloud Firestore
 
 ---
 
@@ -76,51 +98,83 @@ I'm passionate about building security-focused software, modern desktop and mobi
 * Requests
 * BeautifulSoup
 * PySide6
+* Scapy
 
 ---
 
 # 📌 Featured Projects
 
-## 🛡️ SecureAudit
+## 📱 [BizSync](https://github.com/HumairAli26/BizSync)
 
-An enterprise-style desktop vulnerability assessment platform built with **Python** and **PySide6**.
+A cross-platform business app for **inventory and operations tracking**, built with **React Native, Expo, and TypeScript**.
 
 **Key Features**
 
-* Modern enterprise interface
-* Multi-tool vulnerability scanning
-* Report generation
-* Scan history
-* Modular architecture
-* Plugin-ready design
-* Cross-platform support
+* Firebase email/password authentication
+* Organization-based sign up and sign in with unique organization codes
+* Inventory, products, and billing management
+* Offline-first sync powered by Firestore offline persistence, so edits made offline sync across devices on reconnect
+* File-based navigation with expo-router
+* Android build plus a desktop client (Electron) sharing the same Firebase backend
 
 ---
 
-## 🔍 ReconForge
+## 🏝️ [Resort Empire](https://github.com/HumairAli26/Resort-Empire)
 
-An open-source Linux reconnaissance toolkit designed for penetration testers and bug bounty hunters.
+A **2D tile-based resort management tycoon game** built with **Unity and C#**.
+
+**Key Features**
+
+* Build a resort from nothing, starting with a $10,000 balance
+* Tile-based placement and grid logic
+* Earn money, buy more space and facilities, and grow your dream resort
+
+---
+
+## 🎮 [Crownbound](https://github.com/HumairAli26/Crownbound)
+
+A 2D action-adventure game built in Unity with smooth movement, synchronized animations, and dynamic combat. Players switch between sword-based melee and bow-based ranged attacks.
+
+---
+
+## 🔍 [ReconForge](https://github.com/HumairAli26/ReconForge)
+
+A Linux-based network discovery and security assessment platform built with Python.
 
 **Features**
 
-* Subdomain Enumeration
-* Port Scanning
-* HTTP Probing
-* DNS Enumeration
-* URL Collection
-* Automated Recon Workflow
+* Identifies connected devices on a network
+* Host and service enumeration
+* Network topology visualization
+* Security report generation
 
 ---
 
-## 🎣 PhishGuard
+## 🔑 PassGuard
 
-A phishing URL detection application powered by machine learning that analyzes URLs and predicts malicious websites using trained classification models.
+A fully client-side password analyzer with real entropy calculation, multi-vector crack-time estimation, HaveIBeenPwned k-anonymity breach checking, leet-speak and keyboard-walk detection, and a passphrase generator.
 
 ---
 
-## 🎮 Crownbound
+## 📡 [Network Sniffer](https://github.com/HumairAli26/Sniffer-Code)
 
-A 2D action platformer built with Unity featuring combat mechanics, enemy AI, character animations, and multi-scene gameplay.
+A Python packet sniffer and analyzer built with **Scapy** that captures live traffic, extracts IP and transport details, logs DNS queries, and parses HTTP requests.
+
+---
+
+## 🧰 More Projects
+
+* 🔐 [**CipherSuite**](https://github.com/HumairAli26/CipherSuite) – Python encryption tool for text messages and files using multiple cryptographic algorithms
+* 🐞 [**Bug Bounty Tool**](https://github.com/HumairAli26/Bug_Bounty_Tool) – Python scanner that checks targets for missing security headers and common sensitive paths
+* 🔑 [**Password Strength Analyzer**](https://github.com/HumairAli26/Password-Strength-Analyzer) – Python analyzer with crack-time estimates and strengthening tips
+* 💬 [**Multimedia Chat System**](https://github.com/HumairAli26/Python-Multimedia-Chat-System) – Python chat with TCP messaging and UDP audio/video streaming, private and group chat, rooms, and file sharing
+* 🧩 [**AI Puzzle Solver**](https://github.com/HumairAli26/AI-Puzzle-Solver) – 8-Puzzle solver with BFS, DFS, DLS, IDS, and A* (Pygame GUI)
+* 🔢 [**Sudoku Solver**](https://github.com/HumairAli26/Sudoku_Solver) – Sudoku solver with an AI solver and GUI
+* 🏦 [**Banking System**](https://github.com/HumairAli26/Banking_System) – Complete C++ banking system with account, customer, admin, and employee sections
+* 🔓 [**Login & Registration System**](https://github.com/HumairAli26/Login_Registration_System) – C++ file-handling login system
+* 💱 [**Currency Converter**](https://github.com/HumairAli26/Currency_Converter) – Python converter with live exchange rates for 150+ currencies
+* 🎓 [**CGPA Calculator**](https://github.com/HumairAli26/CGPA_Calculator) – C++ CGPA calculator
+* 🌐 [**Portfolio**](https://github.com/HumairAli26/my-portfolio) – Personal portfolio website
 
 ---
 
@@ -128,7 +182,7 @@ A 2D action platformer built with Unity featuring combat mechanics, enemy AI, ch
 
 Designed and implemented multiple SQL-based database systems including:
 
-* Banking Management System
+* [Banking Management System](https://github.com/HumairAli26/Banking_System) (C++)
 * Hospital Management System
 * Relational Database Design
 * ER Modeling
@@ -138,13 +192,12 @@ Designed and implemented multiple SQL-based database systems including:
 
 # 🌱 Currently Learning
 
-* React Native & Expo
-* Mobile Application Development
+* Advanced React Native & Expo
+* Firebase and Backend Development
+* Cross-platform Desktop Apps (Electron)
 * Advanced Penetration Testing & Exploitation
 * Secure Software Development
-* Desktop Application Architecture
 * Networking & Security Automation
-* Backend Development
 * Game System Design & Optimization
 
 ---
@@ -153,15 +206,15 @@ Designed and implemented multiple SQL-based database systems including:
 
 <!-- GitHub Stats -->
 
-![Humair's GitHub Stats](https://github-stats-extended.vercel.app/api?username=HumairAli26&show_icons=true&theme=tokyonight)
+[![Humair's GitHub Stats](https://github-stats-extended.vercel.app/api?username=HumairAli26&show_icons=true&theme=tokyonight)](https://github.com/HumairAli26)
 
 <!-- Top Languages -->
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HumairAli26&layout=compact&langs_count=6&theme=tokyonight)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HumairAli26&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/HumairAli26)
 
 <!-- GitHub Streak -->
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HumairAli26&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HumairAli26&theme=tokyonight&hide_border=true)](https://github.com/HumairAli26)
 
 ---
 
@@ -180,16 +233,23 @@ Designed and implemented multiple SQL-based database systems including:
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge\&logo=unity)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge\&logo=unity)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
 ### 🗄️ Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ### ⚙️ Development Tools
 
@@ -216,8 +276,10 @@ Designed and implemented multiple SQL-based database systems including:
 
 # 🤝 Connect With Me
 
-* 💬 Ask me about **Cybersecurity, Python, C++, React Native, Unity, Databases, or Networking**
-* 🤝 Open to collaborating on **Cybersecurity Tools, Desktop Applications, Mobile Apps, Open Source Projects, and Game Development**
+* 🐙 **GitHub:** [HumairAli26](https://github.com/HumairAli26)
+* 💼 **LinkedIn:** [humair-ali](https://www.linkedin.com/in/humair-ali-a6b3a7339)
+* 💬 Ask me about **Cybersecurity, Python, C++, React Native, TypeScript, Firebase, Unity, Databases, or Networking**
+* 🤝 Open to collaborating on **Cybersecurity Tools, Mobile & Desktop Apps, Open Source Projects, and Game Development**
 
 ---
 
