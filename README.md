@@ -11,8 +11,8 @@ I build security-focused software, cross-platform mobile and desktop apps, autom
 * 🔐 Passionate about **Cybersecurity, Software Development, and Automation**
 * 📱 Built [**BizSync**](https://github.com/HumairAli26/BizSync), a cross-platform inventory and operations app for businesses using **React Native, Expo, TypeScript, and Firebase**
 * 🏝️ Developing [**Resort Empire**](https://github.com/HumairAli26/Resort-Empire), a 2D tile-based resort management tycoon game in **Unity (C#)**
-* 🔍 Building [**ReconForge**](https://github.com/HumairAli26/ReconForge), a Linux network discovery and security assessment platform
-* 🎮 Developing [**Crownbound**](https://github.com/HumairAli26/Crownbound), a 2D Unity action platformer
+* 🔍 Built [**ReconForge**](https://github.com/HumairAli26/ReconForge), a Linux network discovery and security assessment platform
+* 🎮 Developed [**Crownbound**](https://github.com/HumairAli26/Crownbound), a 2D Unity action platformer
 * 📚 Continuously learning **Application Security, System Design, Networking, and Backend Development**
 * 💡 I enjoy turning ideas into practical, scalable, and secure software
 
